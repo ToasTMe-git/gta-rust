@@ -1,0 +1,13 @@
+/home/harel/gta7-rust/target/debug/build/uuid/7bc585609e20e794/out/uuid-7bc585609e20e794.d: /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/lib.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/macros.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/builder.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/error.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/non_nil.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/parser.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/fmt.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/timestamp.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/external.rs
+
+/home/harel/gta7-rust/target/debug/build/uuid/7bc585609e20e794/out/libuuid-7bc585609e20e794.rmeta: /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/lib.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/macros.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/builder.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/error.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/non_nil.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/parser.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/fmt.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/timestamp.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/external.rs
+
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/lib.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/macros.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/builder.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/error.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/non_nil.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/parser.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/fmt.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/timestamp.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.29.3/src/external.rs:

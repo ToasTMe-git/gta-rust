@@ -1,0 +1,11 @@
+/home/harel/gta7-rust/target/release/build/naga-types/b8b37ba243bb75c6/out/naga_types-b8b37ba243bb75c6.d: /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs
+
+/home/harel/gta7-rust/target/release/build/naga-types/b8b37ba243bb75c6/out/libnaga_types-b8b37ba243bb75c6.rlib: /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs
+
+/home/harel/gta7-rust/target/release/build/naga-types/b8b37ba243bb75c6/out/libnaga_types-b8b37ba243bb75c6.rmeta: /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs /home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs
+
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs:
+/home/harel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs:
